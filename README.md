@@ -6,13 +6,13 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
 
 <hr>
-  <h1 align="center">🏎 Cross Road Game 🎮</h1>
+  <h1 align="center">🎮 Cross Road Game 🎮</h1>
   <img src="./images/LOGO.png" width="100px" />
-  <br><a href="https://cross-road-game.vercel.app/"><strong>✦ Play the Game 🏎️💨</strong></a><br><br>
+  <br><a href="https://cross-road-game.vercel.app/"><strong> 🏎️💨Play the Game ✦</strong></a><br><br>
   
   ` Welcome to the Cross Road Car Game! In this thrilling game, you'll guide a car across busy roads filled with obstacles, testing your reflexes and strategic thinking. Get ready to experience endless fun and challenges! `<hr></div>
 
-<h2 align="center">Game Features 🌟</h2>
+<h2>Game Features 🌟</h2>
 
 - **Simple Controls:** Easy-to-use keyboard controls for intuitive gameplay.
 - **Dynamic Difficulty:** Roads with varying speeds and traffic, making each level increasingly challenging.
@@ -20,14 +20,14 @@
 - **Responsive Design:** Enjoy a seamless experience on both desktop and mobile devices.
 - **Music and Sound:** Enjoy a musical and smooth sound that makes your game experience better.
 
-<h2 align="center">Functionalities ⚙️</h2>
+<h2>Functionalities ⚙️</h2>
 
 - **Keyboard Controls:** Use arrow keys to move the car up, down, left, or right.
 - **Randomized Traffic:** Cars, trucks, and other obstacles appear at random intervals and speeds.
 - **Score Tracking:** Your score increases with every successful road crossed.
 - **Game Over Detection:** The game ends when your car collides with an obstacle.
 
-<h2 align="center">🏎️💨 How to Play 🎮</h2>
+<h2>🏎️💨 How to Play 🎮</h2>
 
 1. **Start the Game:** Click on the play button or press `Enter` to begin.
 2. **Move the Car:** Use the arrow keys on your keyboard to move the car in the desired direction.
@@ -39,7 +39,7 @@
 4. **Score Points:** Each successful crossing adds points to your score.
 5. **Avoid Obstacles:** Dodge cars, trucks, and other road hazards that come your way.
 
-<h2 align="center">Game Rules 🚨</h2>
+<h2>Game Rules 🚨</h2>
 
 - **Stay on the Road:** Keep your car on the road to avoid penalties.
 - **Avoid Collisions:** If your car collides with another vehicle or obstacle, the game will end.
