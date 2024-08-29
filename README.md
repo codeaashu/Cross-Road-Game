@@ -6,8 +6,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
 
 <hr>
-  <h1 align="center">🏎 Cross Road Game 🏎️💨</h1>
-  <img src="./LOGO.png" width="100px" />
+  <h1 align="center">🏎 Cross Road Game 🎮</h1>
+  <img src="./images/LOGO.png" width="100px" />
   <br><a href="https://cross-road-game.vercel.app/"><strong>✦ Play the Game 🏎️💨</strong></a><br><br>
   
   ` Welcome to the Cross Road Car Game! In this thrilling game, you'll guide a car across busy roads filled with obstacles, testing your reflexes and strategic thinking. Get ready to experience endless fun and challenges! `<hr></div>
